@@ -1,1 +1,1 @@
-# clone-tarea2
+# Se va a clonar el repositorio del remoto al local
